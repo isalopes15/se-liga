@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html lang="pt-BR">
+<head> 
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     <title>Ativismo - Consciência Negra</title> 
+     <link rel="stylesheet" href="style.css">  
+</head>
+<body>
+     <header>
+         <div class="logo"> ATIVISMO NEGRO </dic>
+         <nav>
+             <ul>
+                <li><a href="index.html">Inicio</a></li>
+             </ul>
+        </nav>
+     </header>
+     <main>
+        <div class="full-widt-image">
+           <img src="https://drive.google.com/file/d/1Sa8FfEh8T5VKaTsixkXpOeCucDe6m592/view?usp=classroom_web&authuser=0" alt"Imagem representativa do ativismo negro">
+        </div>
+        <h1 class="center-text">Ativismo Negro</h1>
+        <p class="center-text">
+            O ativismo negro é uma espressão de luta pela igualdade racial e pelos direitos humanos. Ao longo de história, ativistas negros no Brasil e no mundo enfretaram grandes desafios para combater o recismo e construir uma sociedade mais justa.
+        </p>
+    </main>
+    <footer>
+        <p>&copy;2024 Conciência Negra. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
