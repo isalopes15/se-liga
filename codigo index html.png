@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>História Consciência Negra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Conciência Negra</div>
+        <nav>
+            <ul>
+               <li><a href="#historia" História</a></11
+               <li><a href="#cultura">Cultura</a></li>
+               <li><a href="#ativismo">Ativismo</a></li>
+               <li><a href="#contato">Contato</a></li>
+           </ul>
+      </nav>
+</header>
+  
+<main>
+     <div class="full-width-image">
+          <img src="https://drive.google.com/file/d/1XhHa_OjoN9eH6_a7vT4pXYP74SjW7slb/view?usp=classroom_web&authuser=1" alt="Imagen temática sobre Consciência Negra">
+     </div>
+     
+     <section id="historia" class="dark-box">
+          <h2>História</h2>
+          <img src="https://drive.google.com/file/d/1QvqPhhGEnV2bzWTBkXbvFrsu8XLDZkeF/view?usp=classroom_web&authuser=1" alt="Images representativa da história negra" class="section-image">
+          <p>O Dia da Consciência Negra é celebrado en 20 de novembro es memória de Zumbi dos Palmares e para re <a href="historia.html" class="read-more">Leia mais sobre a história</a>
+          <a href="história.html" cclass="read-more">Leia mais sobre a história</a>
+     </section>
+     
+     <section id="cultura" class="dark-box">
+          <h2>Cultura</h2>
+          <img src="https://drive.google.com/file/d/1B9AxkiUCFEJCk2L_DhfZD3-QybArdYvx/view?usp=classroom_web&authuser=1" alt="Imagem representativa da cultura negra" class="section-image">
+          <p>A cultura negra no Brasil é marcada por uma rica heranca en misica, danca, culinária e religiões como <a href="cultura.html" class="read-nore" Leia mais sobre a cultura</a>
+          <a href="cultura.html" cclass="read-more">Leia mais sobre a cultura</a>
+     </section>
+     
+     <section id="ativismo" class="dark-box"> 
+          <h2>Ativismo</h2>
+          <img src="https://drive.google.com/file/d/1Sa8FfEh8T5VKaTsixkXpOeCucDe6m592/view?usp=classroom_web&authuser=1" alt="Imagen representativa do ativismo negro" class="section-Image"> Movimentos negros ao longo da história the lutado por igualdade, justiça e valorização da identidade af <a href="ativismo.html" class="read more Lala mais sobre o ativismos/a
+          <p>Movimentos negros ao longo da história têm lutado por igualdade, justiça e valorização da identidade afrodesscendente.</p>
+          <a href="ativismo.html" cclass="read-more">Leia mais sobre o ativismo</a>
+     </sections>
+  </main>
+
+  <footers>
+     <p>&copy; 2024 Conciência Negra. Todos os direitos reservados.</p>
+     <p><a href="#contato">Entre em contato</a></p>
+  </footer>
+</body>
+</html>
+
+
+
+
+
