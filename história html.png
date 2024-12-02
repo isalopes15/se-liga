@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>História Consciência Negra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">HISTÓRIA NEGRA</div
+        <nav>
+            <ul>
+               <li><a href="index.html">Início</a></li>
+           </ul>
+      </nav>
+   </header>
+   <main>
+      <div class="full-width-image">
+      <img src="historiabanner.jpg" alt="Imagem representativa da história negra"
+      </div>
+      <h1 class="center-text">História da Consciência Negra</h1>
+      <p class="center-text">
+         A Consciência Negra é celebrada em 20 de novembro. uma data marcada pela resistência e pela memória de Zumbi dos Palmares, um dos maiores líderes da luta pela liberdade dos escravizados no Brasil. Essa data também nos convida a refletir sobre o impacto histórico do racismo e a importância de ações afirmativas para construir uma sociedade mais justa.
+      </p>
+      <p class="center-text">
+         Desde o período colonial até os dias de hoje, o povo negro tem desmpenhado um papel crucial na construção da cultura, economia e identidade do Brasil. No entanto, tembém enfrentaram séculos de opressão, cujas marcas ainda são sentidas. A luta pela igualdade é uma luta por dignidade e reconhecimento.
+      </p>
+  </main>
+  <footer>
+      <p>&copy; 2024 Conciência Negra. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
+
+
+
+
+
+      
